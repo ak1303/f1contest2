@@ -147,7 +147,7 @@
 }
 .footer{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     background-color:#262626;
     gap: 1px;
     margin: 25px;
